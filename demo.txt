@@ -1,5 +1,2 @@
 hey
-#hey ia am adding some commentsgit a
-
-
-#this commi have some bug
+#hey ia am adding some comments
